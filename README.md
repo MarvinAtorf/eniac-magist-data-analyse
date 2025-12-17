@@ -77,7 +77,13 @@ Any potential partnership would require careful consideration to avoid brand dil
 
 ![Category Price Level](images/magist_price_levels.png)
 
+This visualization shows a strong concentration in the low-price segment,
+with very limited premium representati
+
 ![Average Category Comparison](images/avg_cat_compare.png)
+
+The chart shows that only the Computers category aligns with ENIAC’s premium pricing, while all other categories remain significantly lower.
+This indicates a limited overall category fit between Magist and ENIAC.
 
 
 ## 📎 Notes
