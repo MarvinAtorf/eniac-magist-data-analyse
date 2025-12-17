@@ -41,8 +41,8 @@ The analysis addresses the following key areas:
 - `marvin_olesia_leysan_frank.twbx`  
   Tableau workbook used for data visualization and presentation.
 
-- `magist.png`  
-  Visual asset used in the presentation.
+- `magist-edr.png`  
+  EDR_Digramm of the magist database
 
 ---
 
