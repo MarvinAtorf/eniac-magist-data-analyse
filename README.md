@@ -76,9 +76,9 @@ Any potential partnership would require careful consideration to avoid brand dil
 
 ## 📊 Key Visual Insights
 
-![Category Price Level](images/price_level.png)
+![Category Price Level](images/magist_price_level.png)
 
-![Delivery Performance](images/delivery_time.png)
+![Average Category Comparison](images/avg_cat_compare.png)
 
 
 ## 📎 Notes
