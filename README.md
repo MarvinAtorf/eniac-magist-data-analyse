@@ -78,7 +78,7 @@ Any potential partnership would require careful consideration to avoid brand dil
 ![Category Price Level](images/magist_price_levels.png)
 
 This visualization shows a strong concentration in the low-price segment,
-with very limited premium representati
+with very limited premium representative
 
 ![Average Category Comparison](images/avg_cat_compare.png)
 
