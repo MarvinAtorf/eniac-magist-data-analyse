@@ -71,12 +71,11 @@ Based on the analysis, Magist aligns better with **low-cost, high-volume busines
 Any potential partnership would require careful consideration to avoid brand dilution and customer dissatisfaction.
 
 ---
----
-## usefull charts
+
 
 ## 📊 Key Visual Insights
 
-![Category Price Level](images/magist_price_level.png)
+![Category Price Level](images/magist_price_levels.png)
 
 ![Average Category Comparison](images/avg_cat_compare.png)
 
